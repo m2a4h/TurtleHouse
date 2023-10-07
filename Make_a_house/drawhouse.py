@@ -103,7 +103,7 @@ for i in range(4):
     left(90)
 end_fill()
 
-# Window cross
+# Window cross  # My Way
 penup()
 goto(0, 25)
 pendown()
@@ -131,6 +131,7 @@ for i in range(4):
     left(90)
 end_fill()
 
+# Tutorial way
 # cross 2  -horizontal line
 penup()
 goto(-55, 50)
